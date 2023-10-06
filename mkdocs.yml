@@ -1,0 +1,20 @@
+site_name: Week 4 In Class Assignement
+
+theme:
+ name: "material"
+
+plugins:
+ - mkdocstrings
+
+
+nav:
+ - Week 4 In Class Assignement: index.md
+ - Tutorials: tutorial.md
+ - How-To Guides: htg.md
+ - Reference: ref.md
+ - Explanation: explain.md
+ - area_of_rectangle(): recArea.md
+ - perimeter_of_rectangle(): recPerimeter.md
+ - my_adder(): adder.md
+ - my_thermo_stat(): thermo.md
+ - have_digits(): digits.md
